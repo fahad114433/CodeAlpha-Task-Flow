@@ -8,17 +8,4 @@ This project was developed as part of the **CodeAlpha Web Development Internship
 ## 🚀 Live Demo
 🔗 [View Project on Netlify](https://taskflow-todo-app-list.netlify.app/)
 
----
 
-## 📌 Features
-- Add, edit, and delete tasks  
-- Mark tasks as completed  
-- Responsive design for all devices  
-- Clean and minimal UI  
-
----
-
-
----
-
-## 📂 Project Structure
